@@ -1,0 +1,34 @@
+K22AM folder -> py -m venv .venv (for creating a virtual env) -> (.venv) is the name of the virtual env,
+
+instead of py u can also use python or python3 because we are using python 3.13.5
+
+there are different vir env mostly used are venv and conta
+
+.venv\Scripts\activate.bat ( to on virtual envirnment)
+deactivate (to off vir env)
+
+pip install django ( to install django)
+
+django-admin startproject <project_name> (to create a django project)
+
+py manage.py startapp <app_name> (create a new app and write this command in parent project folder) 
+
+cd k22am -> python manage.py runserver
+
+Templates
+Django template lang are DTL or jinja2, both are same,
+{{ }} -> use this when u are using variables,
+
+{% block <name> %} -> use this when working with control statement,
+{% endblock %} 
+
+if u make a parent.html and a child.html then inside the child define this,
+<% extends parenet.html %>
+also u will not call parent.html always call child.html,
+
+
+_____________________________________________________________________________________
+notes - learn python basic syntax,
+	work on backend min 1hr daily,
+	learn dsa daily for a fixed duration,
+	learn django->complete it->make a good backend

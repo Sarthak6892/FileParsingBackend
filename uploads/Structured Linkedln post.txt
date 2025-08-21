@@ -1,0 +1,31 @@
+Topic -> Importance of Devops
+
+Hook(Question,Bold Statement,Relatable)
+Hello LinkedIn community,
+Should Dev and Ops work in silos or not? 
+
+Make it Personal
+While learning the concepts of Devops, i realized how crucial it is for Dev and Ops  teams to work together as a unit rather passing the work back and forth.
+Traditionally, software development was seen as a project to complete and hand it over to the operations team to maintain but that approach rarely creates a great product.
+
+Give Value
+With DevOps its different, team ownership and stable teams makes software development more like product development and less like project management.
+
+DevOps behavior includes shared ownership, collaboration, embracing change and data-driven response.
+
+DevOps is more about culture, people and mindset as much as tools and processes.
+
+End With Engagement
+What do you guys want the Traditional way where Dev and Ops work in silos or DevOps behavior?
+
+Relevent Tags
+#DevOps #Collaboration #SoftwareDevelopment #Teamwork #Innovation
+
+____________________________________________________________________________________
+
+I’m passionate Java Developer, Problem Solver. I have been working on Backend Technologies like spring boot RESTfull APIs.
+I have also created backend using Python Django, focusing on building clean and scalable solutions.
+I believe in discipline over motivation, small consistent steps lead to big progress.
+Always open to learning, collaborating, and connecting with like-minded people in tech .
+
+___________________________________________________________________________________

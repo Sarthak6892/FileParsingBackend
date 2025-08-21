@@ -1,0 +1,80 @@
+git add .
+git commit -m
+git push
+
+
+
+
+imp* jab project ka backend hum seek le gey tab usko post man pe test kare gey aur uska screen rec karke linkdin per post kar dey gey
+
+
+[
+  {
+    "id": "1",
+    "title": "batlogos",
+    "description": "collections of all the bat logos of all batmans till now.",
+    "imageurl": "https://drive.google.com/file/d/1Lc6P7pWzX5cwx7pjf5paLXMclnZ2DBaB/view?usp=sharing"
+  },
+  {
+    "id": "2",
+    "title": "batmancover",
+    "description": "Batman cover is hand made cover for smart phones and its made of paper! Reuseable.",
+    "imageurl": "https://drive.google.com/file/d/1L5yykdRYlLpgTjERXn_S2QuqPpN1eJA1/view?usp=sharing"
+  },
+  {
+    "id": "3",
+    "title": "competition",
+    "description": "When there is a art competion between two friends.",
+    "imageurl": "https://drive.google.com/file/d/1LwSug-UfYcBs3p0_4ymp66VBp3IoRMJX/view?usp=sharing"
+  },
+  {
+    "id": "4",
+    "title": "dragthem",
+    "description": "this world only makes sense when when u force it to.",
+    "imageurl": "https://drive.google.com/file/d/1LcbZyCmivrw9KvXdBMlgAzEEdvEtUye_/view?usp=sharing"
+  },
+  {
+    "id": "5",
+    "title": "endurance",
+    "description": "maturity is by damage not by the age.",
+    "imageurl": "https://drive.google.com/file/d/1Lr-05gDhQnHBACOK62f2hnLbH4dae9I9/view?usp=sharing"
+  },
+  {
+    "id": "6",
+    "title": "godvsman",
+    "description": "greatest match in the history.",
+    "imageurl": "https://drive.google.com/file/d/1Ls7ek4qDPwhfJ-Pjh4DsmVanWxiDPxQ-/view?usp=sharing"
+  },
+  {
+    "id": "7",
+    "title": "greatpower",
+    "description": "with great power comes great responsibity",
+    "imageurl": "https://drive.google.com/file/d/1LQWqzgDXXtN5EPGbA81JqpFfgjHlF9e0/view?usp=sharing"
+  },
+  {
+    "id": "8",
+    "title": "learnto",
+    "description": "so we can learn to pick ourself up.",
+    "imageurl": "https://drive.google.com/file/d/1LKj0fAfKIVAZAvzIUnmjdc251QdXZ1AI/view?usp=sharing"
+  },
+  {
+    "id": "9",
+    "title": "timepass",
+    "description": "timepass!",
+    "imageurl": "https://drive.google.com/file/d/1LzWo1CzYTLMP9S5X4uShE4mmJu0Ljd_9/view?usp=sharing"
+  },
+  {
+    "id": "10",
+    "title": "whydowefall",
+    "description": "why do we fall bruce?",
+    "imageurl": "https://drive.google.com/file/d/1LJeypsi-DFSqXb0FuBb1z1REy7c2GMg5/view?usp=sharing"
+  }
+]
+
+//post mapping 
+{
+  "id": "11",
+  "title": "avengers",
+  "description": "The best avengers were the one's who were in 2012 avengers movie.",
+  "imageurl": "https://drive.google.com/file/d/1M_V3g9Z14zWoYkjnwi9tO2P-2tYq85U3/view?usp=sharing"
+}
