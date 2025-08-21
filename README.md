@@ -17,23 +17,23 @@ Tech Stack
 - Maven
 - Postman (for testing)
 
-API Endpoints
- 1. Upload File
+# API Endpoints
+## 1. Upload File
 POST /files/upload
 Form-Data:
 file: <choose file>
 
-2. Get All Files
-GET /files
+## 2. Get All Files
+     GET /files
 
-3. Get File by ID
-GET /files/{id}
+## 3. Get File by ID
+     GET /files/{id}
 
-4. Check Progress
-GET /files/{id}/progress
+## 4. Check Progress
+    GET /files/{id}/progress
 
-5. Delete File
-DELETE/files/{id}   
+## 5. Delete File
+    DELETE/files/{id}   
 
 ## How to Run
 
@@ -61,18 +61,16 @@ Method: GET
 URL: http://localhost:8080/files/{id}/progress)
 
 4. Get file by id
-5. Method: GET
+Method: GET
 
 URL: http://localhost:8080/files/{id})
 
 5.Delete File
-
 Method: DELETE
 
 URL: http://localhost:8080/files/{id})
 
-
 Run the Spring Boot app
 
 ## Postman Collections
-
+[Link to my Postman Collection](./testAPI.postman_collection.json)
