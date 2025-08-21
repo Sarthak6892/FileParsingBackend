@@ -1,0 +1,6 @@
+com\fileparsing\filework\controller\FileController.class
+com\fileparsing\filework\service\FileParsing.class
+com\fileparsing\filework\model\Filework.class
+com\fileparsing\filework\repository\FileRepository.class
+com\fileparsing\filework\service\Fileservice.class
+com\fileparsing\filework\FileworkApplication.class
