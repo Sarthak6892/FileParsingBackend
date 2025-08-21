@@ -73,3 +73,6 @@ URL: http://localhost:8080/files/{id})
 
 
 Run the Spring Boot app
+
+## Postman Collections
+
