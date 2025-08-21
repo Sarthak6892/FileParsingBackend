@@ -19,9 +19,9 @@ Tech Stack
 
 # API Endpoints
 ## 1. Upload File
-POST /files/upload
-Form-Data:
-file: <choose file>
+    POST /files/upload
+    Form-Data:
+    file: <choose file>
 
 ## 2. Get All Files
      GET /files
